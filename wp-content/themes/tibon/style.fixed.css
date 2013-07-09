@@ -1,0 +1,21 @@
+header {
+    background: #F4F4F4;
+}
+
+header .banner {
+    height: 124px;
+    background: url('image/header-bg.jpg');
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.logo {
+    margin: 34px 0 0 34px;
+}
+
+nav {
+    height: 41px;
+}
